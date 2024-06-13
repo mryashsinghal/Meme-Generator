@@ -21,7 +21,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/meme-generator.git
+    git clone https://github.com/mryashsinghal/meme-generator.git
     ```
 2. **Navigate to the project directory:**
     ```sh
@@ -54,7 +54,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 1. **Fork the Project:**
     ```sh
-    git fork https://github.com/yourusername/meme-generator.git
+    git fork https://github.com/mryashsinghal/meme-generator.git
     ```
 2. **Create your Feature Branch:**
     ```sh
@@ -74,10 +74,6 @@ Contributions are what make the open-source community such an amazing place to l
 Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
-Your Name - [@yourtwitterhandle](https://twitter.com/yourtwitterhandle) - youremail@example.com
+Yash Singhal: dpyashsinghal@gmail.com 
 
-Project Link: [https://github.com/yourusername/meme-generator](https://github.com/yourusername/meme-generator)
-
----
-
-Feel free to replace placeholders like `yourusername`, `yourtwitterhandle`, and `youremail@example.com` with your actual information. Additionally, update the demo link and other relevant details as necessary.
+Project Link: [https://github.com/mryashsinghal/meme-generator](https://github.com/mryashsinghal/meme-generator)
