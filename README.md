@@ -13,7 +13,6 @@ Welcome to the Meme Generator project! This interactive application allows you t
 ## Features
 - Choose from a variety of popular meme templates
 - Add custom text to the top and bottom of the meme
-- Download the generated meme image
 - Responsive design for seamless experience on all devices
 
 ## Installation
@@ -76,4 +75,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Contact
 Yash Singhal: dpyashsinghal@gmail.com 
 
-Project Link: [https://github.com/mryashsinghal/meme-generator](https://github.com/mryashsinghal/meme-generator)
+Project Link: [https://github.com/mryashsinghal/meme-generator](https://github.com/mryashsinghal/)
