@@ -20,7 +20,7 @@ To get a local copy up and running, follow these simple steps:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/mryashsinghal/meme-generator.git
+    git clone https://github.com/mryashsinghal/Meme-Generator.git
     ```
 2. **Navigate to the project directory:**
     ```sh
@@ -53,7 +53,7 @@ Contributions are what make the open-source community such an amazing place to l
 
 1. **Fork the Project:**
     ```sh
-    git fork https://github.com/mryashsinghal/meme-generator.git
+    git fork https://github.com/mryashsinghal/Meme-Generator.git
     ```
 2. **Create your Feature Branch:**
     ```sh
